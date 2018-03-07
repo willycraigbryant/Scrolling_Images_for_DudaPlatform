@@ -1,0 +1,13 @@
+<!--marquee is part of HTML5 that makes images move in the choosen direction-->
+<marquee behavior="scroll" direction="left">
+
+  <!--In Duda I would place an image, click "Edit HTML", and that is where the image ID would be. Then you can put in in the section for scrolling images-->
+  <img src="https://irp-cdn.multiscreensite.com/5e1370c1/dms3rep/multi/trans_image3.png" id="1462017569" class="image1" data-dm-image-path="https://irp-cdn.multiscreensite.com/5e1370c1/dms3rep/multi/trans_image3.png">
+  <img src="https://irp-cdn.multiscreensite.com/5e1370c1/dms3rep/multi/trans_image4.png" id="1152994633" class="image2" data-dm-image-path="https://irp-cdn.multiscreensite.com/5e1370c1/dms3rep/multi/trans_image4.png">
+  <img src="https://irp-cdn.multiscreensite.com/5e1370c1/dms3rep/multi/trans_image6.png" id="1852074310" class="image3" data-dm-image-path="https://irp-cdn.multiscreensite.com/5e1370c1/dms3rep/multi/trans_image6.png">
+  <img src="https://irp-cdn.multiscreensite.com/5e1370c1/dms3rep/multi/trans_image1.png" id="1505614242" class="image4" data-dm-image-path="https://irp-cdn.multiscreensite.com/5e1370c1/dms3rep/multi/trans_image1.png">
+  <img src="https://irp-cdn.multiscreensite.com/5e1370c1/dms3rep/multi/trans_image2.png" id="1949814766" class="image5" data-dm-image-path="https://irp-cdn.multiscreensite.com/5e1370c1/dms3rep/multi/trans_image2.png">
+  <img src="https://irp-cdn.multiscreensite.com/5e1370c1/dms3rep/multi/trans_image5.png" id="1466460566" class="image6" data-dm-image-path="https://irp-cdn.multiscreensite.com/5e1370c1/dms3rep/multi/trans_image5.png">
+  <img src="https://irp-cdn.multiscreensite.com/5e1370c1/dms3rep/multi/trans_image7.png" id="1345663713" class="image7" data-dm-image-path="https://irp-cdn.multiscreensite.com/5e1370c1/dms3rep/multi/trans_image7.png">
+  
+ </marquee>
